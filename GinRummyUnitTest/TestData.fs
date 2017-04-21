@@ -58,6 +58,7 @@ let CJ  = { rank= Jack;     suit= Clubs }
 let CQ  = { rank= Queen;    suit= Clubs }
 let CK  = { rank= King;     suit= Clubs }
 
+let Debug01  = seq [C2;H2;S2;S3;S4;D5;H5;S5;H6;H7]
 let Gin01  = seq [S5;S7;S8;S3;S9;S10;SA;S4;S6;S2]
 let Gin02  = seq [H3;D3;C7;CA;H7;D7;SA;DA;S3;HA]
 let Gin03  = seq [D4;H3;H4;S5;H5;H6;S3;D3;D5;S4]

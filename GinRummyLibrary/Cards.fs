@@ -24,7 +24,8 @@ let random = System.Random()
 
 let rec Shuffle (deck:Deck) = 
     // Exit if empty deck, if only one element will shuffle and return that
-    if Seq.isEmpty deck then deck
+    if Seq.isEmpty deck
+    then deck
     else
         // Get the length of the sequence and extract a random element
         let length = Seq.length deck
@@ -33,12 +34,14 @@ let rec Shuffle (deck:Deck) =
 
         // Gather all elements in the sequence before the random element
         let first =
-            if index < 0 then Seq.empty
+            if index < 0
+            then Seq.empty
             else Seq.truncate index deck
 
         // Gather all elements in the sequence after the random element
         let last =
-            if index >= length then Seq.empty
+            if index >= length
+            then Seq.empty
             else Seq.skip (index + 1) deck
 
         // Append random element to front and shuffle remaining sequence
@@ -53,5 +56,5 @@ let CheckDuplicates (cards:Deck) =
         |> Seq.groupBy id
         |> Seq.map snd
         |> Seq.exists (fun s -> (Seq.length s) > 1)
-    if duplicates then
-        raise (new System.Exception "duplicates found!");
+    if duplicates
+    then raise (new System.Exception "duplicates found!");

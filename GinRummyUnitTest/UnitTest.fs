@@ -34,6 +34,10 @@ type ShuffleTest() =
         Assert.IsTrue(quality < 20.0) // ideally quality should be approximately 10
 
 [<TestClass>]
+type DeadwoodTestsRunning() = 
+    [<TestMethod>] member x.DeadwoodTest()    = Assert.AreEqual(5, GinRummy.Deadwood Debug01)
+
+[<TestClass>]
 type DeadwoodTestsSimple() = 
     [<TestMethod>] member x.Deadwood98()    = Assert.AreEqual(98, GinRummy.Deadwood Hand98)
     [<TestMethod>] member x.Deadwood55()    = Assert.AreEqual(55, GinRummy.Deadwood Hand55)
