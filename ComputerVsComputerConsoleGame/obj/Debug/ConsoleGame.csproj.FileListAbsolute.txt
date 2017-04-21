@@ -1,0 +1,12 @@
+D:\Dropbox\Uni Content\CAB402 Programming Paradigms\Assignment One\GinRummyAssignment\ComputerVsComputerConsoleGame\bin\Debug\ConsoleGame.exe.config
+D:\Dropbox\Uni Content\CAB402 Programming Paradigms\Assignment One\GinRummyAssignment\ComputerVsComputerConsoleGame\bin\Debug\ConsoleGame.exe
+D:\Dropbox\Uni Content\CAB402 Programming Paradigms\Assignment One\GinRummyAssignment\ComputerVsComputerConsoleGame\bin\Debug\ConsoleGame.pdb
+D:\Dropbox\Uni Content\CAB402 Programming Paradigms\Assignment One\GinRummyAssignment\ComputerVsComputerConsoleGame\bin\Debug\FSharp.Core.dll
+D:\Dropbox\Uni Content\CAB402 Programming Paradigms\Assignment One\GinRummyAssignment\ComputerVsComputerConsoleGame\bin\Debug\GinRummyLibrary.dll
+D:\Dropbox\Uni Content\CAB402 Programming Paradigms\Assignment One\GinRummyAssignment\ComputerVsComputerConsoleGame\bin\Debug\GinRummyLibrary.pdb
+D:\Dropbox\Uni Content\CAB402 Programming Paradigms\Assignment One\GinRummyAssignment\ComputerVsComputerConsoleGame\bin\Debug\GinRummyLibrary.xml
+D:\Dropbox\Uni Content\CAB402 Programming Paradigms\Assignment One\GinRummyAssignment\ComputerVsComputerConsoleGame\bin\Debug\FSharp.Core.xml
+D:\Dropbox\Uni Content\CAB402 Programming Paradigms\Assignment One\GinRummyAssignment\ComputerVsComputerConsoleGame\obj\Debug\ConsoleGame.csprojResolveAssemblyReference.cache
+D:\Dropbox\Uni Content\CAB402 Programming Paradigms\Assignment One\GinRummyAssignment\ComputerVsComputerConsoleGame\obj\Debug\ConsoleGame.csproj.ConsoleGame.exe.config
+D:\Dropbox\Uni Content\CAB402 Programming Paradigms\Assignment One\GinRummyAssignment\ComputerVsComputerConsoleGame\obj\Debug\ConsoleGame.exe
+D:\Dropbox\Uni Content\CAB402 Programming Paradigms\Assignment One\GinRummyAssignment\ComputerVsComputerConsoleGame\obj\Debug\ConsoleGame.pdb

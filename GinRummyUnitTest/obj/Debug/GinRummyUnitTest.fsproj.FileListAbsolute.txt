@@ -1,0 +1,14 @@
+D:\Dropbox\Uni Content\CAB402 Programming Paradigms\Assignment One\GinRummyAssignment\GinRummyUnitTest\bin\Debug\GinRummyUnitTest.dll.config
+D:\Dropbox\Uni Content\CAB402 Programming Paradigms\Assignment One\GinRummyAssignment\GinRummyUnitTest\bin\Debug\GinRummyUnitTest.XML
+D:\Dropbox\Uni Content\CAB402 Programming Paradigms\Assignment One\GinRummyAssignment\GinRummyUnitTest\bin\Debug\GinRummyUnitTest.dll
+D:\Dropbox\Uni Content\CAB402 Programming Paradigms\Assignment One\GinRummyAssignment\GinRummyUnitTest\bin\Debug\GinRummyUnitTest.pdb
+D:\Dropbox\Uni Content\CAB402 Programming Paradigms\Assignment One\GinRummyAssignment\GinRummyUnitTest\bin\Debug\FSharp.Core.dll
+D:\Dropbox\Uni Content\CAB402 Programming Paradigms\Assignment One\GinRummyAssignment\GinRummyUnitTest\bin\Debug\GinRummyLibrary.dll
+D:\Dropbox\Uni Content\CAB402 Programming Paradigms\Assignment One\GinRummyAssignment\GinRummyUnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Dropbox\Uni Content\CAB402 Programming Paradigms\Assignment One\GinRummyAssignment\GinRummyUnitTest\bin\Debug\GinRummyLibrary.pdb
+D:\Dropbox\Uni Content\CAB402 Programming Paradigms\Assignment One\GinRummyAssignment\GinRummyUnitTest\bin\Debug\GinRummyLibrary.xml
+D:\Dropbox\Uni Content\CAB402 Programming Paradigms\Assignment One\GinRummyAssignment\GinRummyUnitTest\bin\Debug\FSharp.Core.xml
+D:\Dropbox\Uni Content\CAB402 Programming Paradigms\Assignment One\GinRummyAssignment\GinRummyUnitTest\obj\Debug\GinRummyUnitTest.fsprojResolveAssemblyReference.cache
+D:\Dropbox\Uni Content\CAB402 Programming Paradigms\Assignment One\GinRummyAssignment\GinRummyUnitTest\obj\Debug\GinRummyUnitTest.fsproj.GinRummyUnitTest.dll.config
+D:\Dropbox\Uni Content\CAB402 Programming Paradigms\Assignment One\GinRummyAssignment\GinRummyUnitTest\obj\Debug\GinRummyUnitTest.dll
+D:\Dropbox\Uni Content\CAB402 Programming Paradigms\Assignment One\GinRummyAssignment\GinRummyUnitTest\obj\Debug\GinRummyUnitTest.pdb

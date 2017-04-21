@@ -1,0 +1,10 @@
+D:\Dropbox\Uni Content\CAB402 Programming Paradigms\Assignment One\GinRummySkeleton\bin\GinRummyLibrary.dll
+D:\Dropbox\Uni Content\CAB402 Programming Paradigms\Assignment One\GinRummySkeleton\bin\GinRummyLibrary.pdb
+D:\Dropbox\Uni Content\CAB402 Programming Paradigms\Assignment One\GinRummySkeleton\bin\GinRummyLibrary.XML
+D:\Dropbox\Uni Content\CAB402 Programming Paradigms\Assignment One\GinRummySkeleton\GinRummyLibrary\obj\Debug\GinRummyLibrary.dll
+D:\Dropbox\Uni Content\CAB402 Programming Paradigms\Assignment One\GinRummySkeleton\GinRummyLibrary\obj\Debug\GinRummyLibrary.pdb
+D:\Dropbox\Uni Content\CAB402 Programming Paradigms\Assignment One\GinRummyAssignment\bin\GinRummyLibrary.dll
+D:\Dropbox\Uni Content\CAB402 Programming Paradigms\Assignment One\GinRummyAssignment\bin\GinRummyLibrary.pdb
+D:\Dropbox\Uni Content\CAB402 Programming Paradigms\Assignment One\GinRummyAssignment\bin\GinRummyLibrary.XML
+D:\Dropbox\Uni Content\CAB402 Programming Paradigms\Assignment One\GinRummyAssignment\GinRummyLibrary\obj\Debug\GinRummyLibrary.dll
+D:\Dropbox\Uni Content\CAB402 Programming Paradigms\Assignment One\GinRummyAssignment\GinRummyLibrary\obj\Debug\GinRummyLibrary.pdb
