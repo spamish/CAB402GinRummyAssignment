@@ -93,6 +93,20 @@ namespace ConsoleGame
                 }
 
                 Console.WriteLine("Player 1 score: {0}, Player 2 score: {1}", player1.Score, player2.Score);
+
+                if (player1.Score > 100)
+                {
+                    Console.WriteLine("Player 1 wins {0} to {1}", player1.Score, player2.Score);
+                    Console.ReadKey();
+                    break;
+                }
+
+                if (player2.Score > 100)
+                {
+                    Console.WriteLine("Player 2 wins {0} to {1}", player2.Score, player1.Score);
+                    Console.ReadKey();
+                    break;
+                }
             }
         }
 
