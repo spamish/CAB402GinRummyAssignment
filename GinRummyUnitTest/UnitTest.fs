@@ -35,7 +35,8 @@ type ShuffleTest() =
 
 [<TestClass>]
 type DeadwoodTestsRunning() = 
-    [<TestMethod>] member x.DeadwoodTest()    = Assert.AreEqual(5, GinRummy.Deadwood Debug01)
+    [<TestMethod>] member x.Deadwood05()    = Assert.AreEqual(5, GinRummy.Deadwood Hand05)
+    [<TestMethod>] member x.Deadwood09()    = Assert.AreEqual(9, GinRummy.Deadwood Hand09)
 
 [<TestClass>]
 type DeadwoodTestsSimple() = 
@@ -97,6 +98,17 @@ type ScoreTest() =
     [<TestMethod>] member x.Score22()   = Assert.AreEqual(-25,  GinRummy.Score Hand10 Hand10)
     [<TestMethod>] member x.Score23()   = Assert.AreEqual(4,  GinRummy.Score Hand10 Hand14)
     [<TestMethod>] member x.Score24()   = Assert.AreEqual(45,  GinRummy.Score Hand10 Hand55)
+
+[<TestClass>]
+type KnockScoreTest() = 
+    [<TestMethod>] member x.Score01()   = Assert.AreEqual(-25,  GinRummy.Score Hand01  Hand01) // C  1  H  1
+    [<TestMethod>] member x.Score02()   = Assert.AreEqual(1,  GinRummy.Score Hand01  Hand02)  // C  1  H  2 
+    [<TestMethod>] member x.Score03()   = Assert.AreEqual(-26,  GinRummy.Score Hand02  Hand01) // C  2  H  1
+    [<TestMethod>] member x.Score04()   = Assert.AreEqual(-25,  GinRummy.Score Hand02  Hand02) // C  2  H  2
+    [<TestMethod>] member x.Score05()   = Assert.AreEqual(-25,  GinRummy.Score Hand09  Hand09) // C  9  H  9
+    [<TestMethod>] member x.Score06()   = Assert.AreEqual(1,  GinRummy.Score Hand09  Hand10) // C  9  H 10
+    [<TestMethod>] member x.Score07()   = Assert.AreEqual(-26,  GinRummy.Score Hand10 Hand09)// C 10  H  9
+    [<TestMethod>] member x.Score08()   = Assert.AreEqual(-25,  GinRummy.Score Hand10 Hand10) // C 10  H 10
 
 [<TestClass>]
 type PickupTest() = 

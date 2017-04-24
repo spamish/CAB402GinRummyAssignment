@@ -43,8 +43,7 @@
                 <DataTemplate>
                     <Image Width="80" Margin="5" >
                         <Image.Source>
-                            <!--<Binding Converter="{StaticResource HiddenCardConverter}"/>-->
-                            <Binding Converter="{StaticResource VisibleCardConverter}"/>
+                            <Binding Converter="{StaticResource HiddenCardConverter}"/>
                         </Image.Source>
                     </Image>
                 </DataTemplate>
@@ -56,11 +55,12 @@
             </ItemsControl.ItemsPanel>
         </ItemsControl>
 
-        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center"  Grid.Row="2" >
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Left"  Grid.Row="2">
 
-            <Button Command="{Binding ButtonCommand}" Content="Button" Width="100" FontSize="20" Height="100" Margin="10,10,50,10"/>
+            <Button Command="{Binding ButtonEndCommand}" Content="{Binding ButtonEndContent}" IsEnabled="{Binding ButtonEndEnabled}" Width="100" FontSize="20" Height="100" Margin="100,10,20,10"/>
+            <Button Command="{Binding ButtonContinueCommand}" Content="Continue" Width="100" IsEnabled="{Binding ButtonContinueEnabled}" FontSize="20" Height="100" Margin="20,10,100,10" />
 
-            <ItemsControl ItemsSource="{Binding Path=Discards}" >
+            <ItemsControl ItemsSource="{Binding Path=Discards}">
                 <ItemsControl.ItemTemplate>
                     <DataTemplate>
                         <Image Width="80">

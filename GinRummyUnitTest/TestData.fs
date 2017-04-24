@@ -58,14 +58,15 @@ let CJ  = { rank= Jack;     suit= Clubs }
 let CQ  = { rank= Queen;    suit= Clubs }
 let CK  = { rank= King;     suit= Clubs }
 
-let Debug01  = seq [C2;H2;S2;S3;S4;D5;H5;S5;H6;H7]
 let Gin01  = seq [S5;S7;S8;S3;S9;S10;SA;S4;S6;S2]
 let Gin02  = seq [H3;D3;C7;CA;H7;D7;SA;DA;S3;HA]
 let Gin03  = seq [D4;H3;H4;S5;H5;H6;S3;D3;D5;S4]
 let Gin04 = seq [S7;H3;D3;C7;CA;H7;D7;SA;DA;S3;HA]
 let Hand01 = seq [CA;HA;H2;S3;H3;H4;SA;S4;C4;S2]
 let Hand02 = seq [S2;H3;D3;C7;CA;H7;D7;SA;DA;S3;HA]
+let Hand05  = seq [C2;H2;S2;S3;S4;D5;H5;S5;H6;H7]
 let Hand06 = seq [H3;H5;C3;S3;S4;S5;SA;D3;H4;S2]
+let Hand09  = seq [S2;S3;S4;S5;S6;HJ;DJ;CJ;SJ;D9]
 let Hand10 = seq [S5;S7;S8;S3;S9;C10;SA;S4;S6;S2]
 let Hand14 = seq [C3;C5;D5;S3;H5;C7;SA;H3;C4;S2]
 let Hand18 = seq [C9;S5;S7;S8;S3;S9;C8;SA;S4;S6;S2]
