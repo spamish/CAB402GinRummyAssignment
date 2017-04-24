@@ -8,3 +8,8 @@ D:\Dropbox\Uni Content\CAB402 Programming Paradigms\Assignment One\GinRummyAssig
 D:\Dropbox\Uni Content\CAB402 Programming Paradigms\Assignment One\GinRummyAssignment\bin\GinRummyLibrary.XML
 D:\Dropbox\Uni Content\CAB402 Programming Paradigms\Assignment One\GinRummyAssignment\GinRummyLibrary\obj\Debug\GinRummyLibrary.dll
 D:\Dropbox\Uni Content\CAB402 Programming Paradigms\Assignment One\GinRummyAssignment\GinRummyLibrary\obj\Debug\GinRummyLibrary.pdb
+D:\Dropbox\Uni Content\CAB402 Programming Paradigms\Assignment One\GinRummyN7402643\bin\GinRummyLibrary.dll
+D:\Dropbox\Uni Content\CAB402 Programming Paradigms\Assignment One\GinRummyN7402643\bin\GinRummyLibrary.pdb
+D:\Dropbox\Uni Content\CAB402 Programming Paradigms\Assignment One\GinRummyN7402643\bin\GinRummyLibrary.XML
+D:\Dropbox\Uni Content\CAB402 Programming Paradigms\Assignment One\GinRummyN7402643\GinRummyLibrary\obj\Debug\GinRummyLibrary.dll
+D:\Dropbox\Uni Content\CAB402 Programming Paradigms\Assignment One\GinRummyN7402643\GinRummyLibrary\obj\Debug\GinRummyLibrary.pdb

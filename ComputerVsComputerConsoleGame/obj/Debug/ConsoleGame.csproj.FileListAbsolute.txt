@@ -10,3 +10,6 @@ D:\Dropbox\Uni Content\CAB402 Programming Paradigms\Assignment One\GinRummyAssig
 D:\Dropbox\Uni Content\CAB402 Programming Paradigms\Assignment One\GinRummyAssignment\ComputerVsComputerConsoleGame\obj\Debug\ConsoleGame.csproj.ConsoleGame.exe.config
 D:\Dropbox\Uni Content\CAB402 Programming Paradigms\Assignment One\GinRummyAssignment\ComputerVsComputerConsoleGame\obj\Debug\ConsoleGame.exe
 D:\Dropbox\Uni Content\CAB402 Programming Paradigms\Assignment One\GinRummyAssignment\ComputerVsComputerConsoleGame\obj\Debug\ConsoleGame.pdb
+D:\Dropbox\Uni Content\CAB402 Programming Paradigms\Assignment One\GinRummyN7402643\ComputerVsComputerConsoleGame\bin\Debug\ConsoleGame.exe.config
+D:\Dropbox\Uni Content\CAB402 Programming Paradigms\Assignment One\GinRummyN7402643\ComputerVsComputerConsoleGame\obj\Debug\ConsoleGame.exe
+D:\Dropbox\Uni Content\CAB402 Programming Paradigms\Assignment One\GinRummyN7402643\ComputerVsComputerConsoleGame\obj\Debug\ConsoleGame.pdb

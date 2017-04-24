@@ -206,11 +206,11 @@ namespace QUT
 
                 if (humanDeadwoodScore == 0)
                 {
-                    VictoryConditions(winnerScore, true, true);
+                    EndGame(winnerScore, true, true);
                 }
                 else
                 {
-                    VictoryConditions(winnerScore, true, false);
+                    EndGame(winnerScore, true, false);
                 }
             }
             else
@@ -227,7 +227,7 @@ namespace QUT
             NotificationRequest.Raise(new Notification { Content = msg, Title = title });
         }
         
-        private void VictoryConditions(int score, bool humanCalled, bool ginCalled)
+        private void EndGame(int score, bool humanCalled, bool ginCalled)
         {
             string message = "";
             string title = "";
@@ -354,12 +354,12 @@ namespace QUT
             if (action.IsGin)
             {
                 int winnerScore = await Task.Run(() => GinRummy.Score(ComputerCards, HumanCards));
-                VictoryConditions(winnerScore, false, true);
+                EndGame(winnerScore, false, true);
             }
             else if (action.IsKnock)
             {
                 int winnerScore = await Task.Run(() => GinRummy.Score(ComputerCards, HumanCards));
-                VictoryConditions(winnerScore, false, false);
+                EndGame(winnerScore, false, false);
             }
             else
             {

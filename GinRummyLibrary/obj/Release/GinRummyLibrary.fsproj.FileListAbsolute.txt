@@ -5,3 +5,10 @@ D:\Dropbox\Uni Content\CAB402 Programming Paradigms\Assignment One\GinRummyAssig
 D:\Dropbox\Uni Content\CAB402 Programming Paradigms\Assignment One\GinRummyAssignment\GinRummyLibrary\bin\Release\FSharp.Core.xml
 D:\Dropbox\Uni Content\CAB402 Programming Paradigms\Assignment One\GinRummyAssignment\GinRummyLibrary\obj\Release\GinRummyLibrary.dll
 D:\Dropbox\Uni Content\CAB402 Programming Paradigms\Assignment One\GinRummyAssignment\GinRummyLibrary\obj\Release\GinRummyLibrary.pdb
+D:\Dropbox\Uni Content\CAB402 Programming Paradigms\Assignment One\GinRummyN7402643\GinRummyLibrary\bin\Release\Library1.XML
+D:\Dropbox\Uni Content\CAB402 Programming Paradigms\Assignment One\GinRummyN7402643\GinRummyLibrary\bin\Release\GinRummyLibrary.dll
+D:\Dropbox\Uni Content\CAB402 Programming Paradigms\Assignment One\GinRummyN7402643\GinRummyLibrary\bin\Release\GinRummyLibrary.pdb
+D:\Dropbox\Uni Content\CAB402 Programming Paradigms\Assignment One\GinRummyN7402643\GinRummyLibrary\bin\Release\FSharp.Core.dll
+D:\Dropbox\Uni Content\CAB402 Programming Paradigms\Assignment One\GinRummyN7402643\GinRummyLibrary\bin\Release\FSharp.Core.xml
+D:\Dropbox\Uni Content\CAB402 Programming Paradigms\Assignment One\GinRummyN7402643\GinRummyLibrary\obj\Release\GinRummyLibrary.dll
+D:\Dropbox\Uni Content\CAB402 Programming Paradigms\Assignment One\GinRummyN7402643\GinRummyLibrary\obj\Release\GinRummyLibrary.pdb

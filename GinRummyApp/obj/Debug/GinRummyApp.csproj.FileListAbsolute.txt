@@ -26,3 +26,17 @@ D:\Dropbox\Uni Content\CAB402 Programming Paradigms\Assignment One\GinRummyAssig
 D:\Dropbox\Uni Content\CAB402 Programming Paradigms\Assignment One\GinRummyAssignment\GinRummyApp\obj\Debug\GinRummyApp.csproj.GenerateResource.Cache
 D:\Dropbox\Uni Content\CAB402 Programming Paradigms\Assignment One\GinRummyAssignment\GinRummyApp\obj\Debug\GinRummy.exe
 D:\Dropbox\Uni Content\CAB402 Programming Paradigms\Assignment One\GinRummyAssignment\GinRummyApp\obj\Debug\GinRummy.pdb
+D:\Dropbox\Uni Content\CAB402 Programming Paradigms\Assignment One\GinRummyN7402643\bin\GinRummy.exe.config
+D:\Dropbox\Uni Content\CAB402 Programming Paradigms\Assignment One\GinRummyN7402643\bin\GinRummy.exe
+D:\Dropbox\Uni Content\CAB402 Programming Paradigms\Assignment One\GinRummyN7402643\bin\GinRummy.pdb
+D:\Dropbox\Uni Content\CAB402 Programming Paradigms\Assignment One\GinRummyN7402643\GinRummyApp\obj\Debug\GinRummyApp.csprojResolveAssemblyReference.cache
+D:\Dropbox\Uni Content\CAB402 Programming Paradigms\Assignment One\GinRummyN7402643\GinRummyApp\obj\Debug\App.g.cs
+D:\Dropbox\Uni Content\CAB402 Programming Paradigms\Assignment One\GinRummyN7402643\GinRummyApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Dropbox\Uni Content\CAB402 Programming Paradigms\Assignment One\GinRummyN7402643\GinRummyApp\obj\Debug\GinRummy_MarkupCompile.cache
+D:\Dropbox\Uni Content\CAB402 Programming Paradigms\Assignment One\GinRummyN7402643\GinRummyApp\obj\Debug\GinRummy_MarkupCompile.lref
+D:\Dropbox\Uni Content\CAB402 Programming Paradigms\Assignment One\GinRummyN7402643\GinRummyApp\obj\Debug\Views\View.baml
+D:\Dropbox\Uni Content\CAB402 Programming Paradigms\Assignment One\GinRummyN7402643\GinRummyApp\obj\Debug\GinRummy.g.resources
+D:\Dropbox\Uni Content\CAB402 Programming Paradigms\Assignment One\GinRummyN7402643\GinRummyApp\obj\Debug\QUT.Properties.Resources.resources
+D:\Dropbox\Uni Content\CAB402 Programming Paradigms\Assignment One\GinRummyN7402643\GinRummyApp\obj\Debug\GinRummyApp.csproj.GenerateResource.Cache
+D:\Dropbox\Uni Content\CAB402 Programming Paradigms\Assignment One\GinRummyN7402643\GinRummyApp\obj\Debug\GinRummy.exe
+D:\Dropbox\Uni Content\CAB402 Programming Paradigms\Assignment One\GinRummyN7402643\GinRummyApp\obj\Debug\GinRummy.pdb
